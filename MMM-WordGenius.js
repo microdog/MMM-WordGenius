@@ -2,6 +2,7 @@ Module.register("MMM-WordGenius", {
 	// Default module config.
 	defaults: {
 		updateInterval: 120000,
+		animationSpeed: 2.5 * 1000,
 		headerText: "Word Genius Word of the Day"
 	},
 	
